@@ -143,6 +143,7 @@
 
 ## LILYGO
 ### TTGO T-Display-GD32
+* RAM: 4MB/16MB
 
 ## YuzukiHD
 ### D1s NeZha
